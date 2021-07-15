@@ -1,4 +1,4 @@
-## Qualifications
+### Qualifications
 
 I attended a grammar school from 2014 to 2021. I have eleven GCSEs from grade 7 to grade 9. In my A-levels, I am predicted two A-stars and an A. Alongside my A-levels, I conducted a research project, which I achieved 50/50 marks on. 
 
