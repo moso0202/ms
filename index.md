@@ -9,7 +9,7 @@ I have three years' of tutoring experience. I have tutored students from Key Sta
 
 ### What I Can Offer
 
-I can tutor in Maths and English, up to GCSE level. I have in-person and online tutoring experience. 
+I can tutor in Maths and English, up to GCSE level, as well as for the 11+. I have in-person and online tutoring experience. 
 
 For English, I can tutor in both Language and Literature. I have studied the following GCSE texts:
 
