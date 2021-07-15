@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Qualifications
 
-You can use the [editor on GitHub](https://github.com/moso0202/ms.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I attended a grammar school from 2014 to 2021. I have eleven GCSEs from grade 7 to grade 9. In my A-levels, I am predicted two A-stars and an A. Alongside my A-levels, I conducted a research project, which I achieved 50/50 marks on. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Experience
 
-### Markdown
+I have three years' of tutoring experience. I have tutored students from Key Stage Two and Three in Maths and English, and I have also tutored for the 11+. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### What I Can Offer
 
-```markdown
-Syntax highlighted code block
+I can tutor in Maths and English, up to GCSE level. I have in-person and online tutoring experience. 
 
-# Header 1
-## Header 2
-### Header 3
+### Pricing
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/moso0202/ms.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+I charge £10 for an hour.
